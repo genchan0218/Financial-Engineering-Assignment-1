@@ -21,3 +21,14 @@ This repository contains my submission for **Financial Engineering Assignment 1*
 ```bash
 git clone https://github.com/yourusername/Financial-Engineering-Assignment-1.git
 cd Financial-Engineering-Assignment-1
+```
+
+2. Install required Python packages
+Ensure you have necessary package installed. 
+pip install pandas numpy statsmodels matplotlib seaborn yfinance
+
+3. Open the Jupyter notebook
+jupyter notebook Financial_Engineering_Assignment_1_Hirayama_BTC.ipynb
+
+4. Run the Jupyter Notebook
+Execute all cells in order to replicate the full analysis. Adjust parameters as needed to explore alternative model specifications.
