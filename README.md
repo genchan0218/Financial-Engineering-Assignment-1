@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my submission for **Financial Engineering Assignment 1**, which analyzes historical Bitcoin (BTC) data to build predictive models using lagged price and volume features. The assignment explores classification techniques, XGBoost, to forecast the direction of BTC price movement. Key performance metrics and visualizations such as confusion matrix, ROC curve, and feature importance plots are included.
+This repository contains my submission for **Financial Engineering Assignment 1**, which analyzes historical Bitcoin (BTC) data to build predictive models using lagged price and volume features. The assignment explores classification techniques, XGBoost, to forecast the direction of BTC price movement. Key performance metrics and visualizations such as confusion matrix and ROC curve are included.
 
 ---
 
